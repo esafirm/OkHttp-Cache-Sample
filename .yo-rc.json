@@ -1,0 +1,9 @@
+{
+  "generator-kotlin-android-conductor": {
+    "promptValues": {
+      "name": "Cache Sample",
+      "targetSdk": 26,
+      "minSdk": 19
+    }
+  }
+}
